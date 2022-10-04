@@ -32,4 +32,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhamanandsharma&show_icons=true&locale=en" alt="subhamanandsharma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhamanandsharma&" alt="subhamanandsharma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamAnandSharma" alt="SubhamAnandSharma" /></p>
+
+
+<a href="https://github.com/SubhamAnandSharma/github-readme-activity-graph"><img alt="Subham Sharma Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamAnandSharma&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
+
