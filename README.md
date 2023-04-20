@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Spring Framework**
 
-- 👨‍💻 All of my projects are available at [https://subham-sharma-portfoliolink.netlify.app/](https://subham-sharma-portfoliolink.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://subhamanandsharma.github.io/](https://subhamanandsharma.github.io/)
 
 - 💬 Ask me about **HTML, CSS, Core JAVA, Spring Boot**
 
