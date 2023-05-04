@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://subhamanandsharma.github.io/](https://subhamanandsharma.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Core JAVA, Spring Boot**
+- 💬 Ask me about **Core JAVA, Spring Boot, Spring Security, JPA, Maven**
 
 - 📫 How to reach me **mrsubham595@gmail.com**
 
