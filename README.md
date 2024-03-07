@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham Sharma</h1>
-<h3 align="center">A passionate Web developer(Java Backend developer) from India</h3>
+<h3 align="center">A passionate Web developer(full stack developer) from India</h3>
 <p align="center">I am a highly detail-oriented and organized Java backend developer with excellent technical and communication skills. Passionate about coding and Self-motivated with a keen interest in building user-centric products. I just completed an Intensive Full Stack Web Development Bootcamp from Masai School. with 1200+ hours of coding and 100+ hours soft skills training. Looking forward to utilising my skills in a challenging work environment. I like to help people, solve their problem and bring smile on their face.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhamanandsharma&label=Profile%20views&color=0e75b6&style=flat" alt="subhamanandsharma" /> </p>
